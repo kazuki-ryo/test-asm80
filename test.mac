@@ -1,0 +1,5 @@
+NOP
+LD A,C
+LD B,A
+RET
+RET NC
